@@ -1,2 +1,2 @@
-# duplicateFile
-check and list out duplicate file and remind you want to delete it or not
+# MacApplicationUninstallerTool
+check and list out all the applications you want to uninstall it or not
